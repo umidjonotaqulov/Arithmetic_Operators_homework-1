@@ -12,8 +12,6 @@ number=29
 
 number=number/2
 
-answer=19
-
 answer=number%2
 
 print(number)
