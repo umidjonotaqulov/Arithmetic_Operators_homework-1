@@ -8,7 +8,7 @@
  
 #Print the number.
 
-number=19
+number=29
 
 answer=number%2
 
