@@ -10,10 +10,12 @@
 
 number=29
 
-number//=2
+number=number/2
 
-answer=number/2.0
+answer=19
 
-print(number)
+answer=answer%2
 
 print(answer)
+
+print(number)
