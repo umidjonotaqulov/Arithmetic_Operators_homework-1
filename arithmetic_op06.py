@@ -10,10 +10,6 @@
 
 number=19
 
-x1=number/2
-
-x2=number//2
-
-answer=x1-x2
+answer=number%2
 
 print(answer)
