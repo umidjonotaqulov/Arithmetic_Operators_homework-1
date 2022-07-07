@@ -10,4 +10,6 @@ number=59
 
 answer=number%3
 
+
+
 print(answer)
