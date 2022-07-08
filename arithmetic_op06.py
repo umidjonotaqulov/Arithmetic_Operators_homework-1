@@ -10,11 +10,11 @@
 
 number=29
 
-number=number/2
+x=number/2
 
-answer=19
+number=x
 
-answer=answer%2
+answer=x%2
 
 print(answer)
 
