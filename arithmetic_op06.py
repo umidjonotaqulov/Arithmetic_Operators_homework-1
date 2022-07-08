@@ -8,13 +8,13 @@
  
 #Print the number.
 
-number=29
+number=59
 
-x=number/2
+x=number%2
 
-number=x
+answer=x/2
 
-answer=x%2
+number=number/2
 
 print(answer)
 
